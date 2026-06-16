@@ -204,6 +204,8 @@ html {
 
 .section-map {
   padding: 0 0 0 0 ;
+  display: flex;
+  justify-content: center;
 }
 
 .main-content .section-light {
